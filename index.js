@@ -5,4 +5,4 @@ function main(args) {
   return {"body": greeting}
 }
 
-main('John Bidon');
+main('John-Bidon');
